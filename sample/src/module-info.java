@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author ajay
+ *
+ */
+module sample {
+}
