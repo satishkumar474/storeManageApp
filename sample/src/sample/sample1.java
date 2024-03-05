@@ -7,6 +7,8 @@ public class sample1 {
 		
 		System.out.println("checking the commit...");
 		
+		System.out.println("checking....");
+		
 
 	}
 
